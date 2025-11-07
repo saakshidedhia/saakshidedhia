@@ -91,16 +91,6 @@ Building data-driven financial solutions and driving strategic insights at the i
 * 🔬 **Reproducible Research Fundamentals** Course
 * 📋 **IC38** - Certificate Exam of Insurance Agent
 
-## 🌍 Languages
-
-* **English** - Full Professional Proficiency
-* **Hindi** - Native
-* **Gujarati** - Native
-* **Kutchhi** - Native
-* **Marathi** - Limited Working
-* **French** - Elementary
-* **Sanskrit** - Elementary
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saakshi-dedhia/)
