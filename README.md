@@ -1,8 +1,6 @@
 # Hi 👋 I'm Saakshi Dedhia
 
-## 📈 Finance Professional | 🚀 Ex-Founder | 📊 Data Analyst | 🎓 USC Graduate Student
-
-Building data-driven financial solutions and driving strategic insights at the intersection of economics, finance, and technology.
+## 📈 Finance, Economics, Data and AI | 🚀 Entrepreneur | 🎓 USC'26
 
 ## 🔥 About Me
 
@@ -10,29 +8,26 @@ Building data-driven financial solutions and driving strategic insights at the i
 * 💼 Former **Portfolio Management & Investment Research Intern** at StepStone Group, managing $602B Evergreen Fund strategies
 * 🏆 **Rising Star of the Year 2022** - Founded and scaled Sparsh Skin, a personal care brand
 * 📊 Experienced in **quantitative modeling, risk management, and financial analysis** across multiple asset classes
-* 🌟 President of Economic Graduate Student Association (EGSA) & VCIC'24 winner
 * 📧 Reach me at: **sakshidedhia07@gmail.com**
 
 ## ⚡ Current Focus
 
-* 🎯 **Actively seeking Spring 2026 co-op & 2026 full-time opportunities** in Investment/Asset Management
+* 🎯 **Actively seeking Spring 2026 Co-Op & 2026 Full-time opportunities** in Investment/Asset Management
 * 📈 Developing proprietary quantitative optimization models for portfolio management
 * 🔍 Researching econometric modeling techniques and their applications in financial markets
-* 💡 Exploring blockchain technology and its impact on modern finance through Blockchain@USC
-* 🌐 Building data pipelines for structured cross-manager analytics
 
 ## 🛠️ Technical Arsenal
 
-### 📊 **Data Analytics & Econometrics**
+### 📊 **Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Stata](https://img.shields.io/badge/STATA-1F497D?style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Libraries:** NumPy, CVXOPT, Pandas, Tableau, Anaconda, VS Code
+**Tools & Libraries:** NumPy, Matplotlib, SciPy, TensorFlow, CVXOPT, Pandas, Power BI, Tableau, Anaconda, VS Code, Excel, VBA
 
-### 💹 **Financial Platforms**
+### 💹 **Platforms**
 ![Bloomberg](https://img.shields.io/badge/Bloomberg_Terminal-000000?style=for-the-badge&logoColor=white)
 ![FactSet](https://img.shields.io/badge/FactSet-FF6900?style=for-the-badge&logoColor=white)
 ![Capital IQ](https://img.shields.io/badge/Capital_IQ-003366?style=for-the-badge&logoColor=white)
@@ -67,15 +62,18 @@ Building data-driven financial solutions and driving strategic insights at the i
 
 ### 🏛️ **University of Southern California** (Aug 2024 - May 2026)
 **Master of Science in Applied Economics & Econometrics** (STEM)
+* **GPA:** 3.85/4.0
+* **Relevant Coursework:** Time Series Analysis, Big Data Econometrics, Private Equity and Venture Capital, Quantitative Investing, Macroeconomics
 * **Leadership:** President - Economic Graduate Student Association (EGSA)
 * **Awards:** Secured first place in Venture Capital Investment Capital (VCIC'24)
+* **Involvement:** Global Investment Society (GIS), Blockchain@USC (Research Team), Gamma Iota Sigma Risk Management Society, Smart Women Securities (SWS), DataSC
 * **Research Assistant:** Marshall Behavioral Research Lab
 * **Teaching Assistant:** DSO 580, BUAD 315, POSC-340, POSC-436
 
-### 🏛️ **University of Mumbai** (2020 - 2024)
-**Bachelor of Arts in Economics** | **Master of Arts in Economics**
-* **GPA:** 3.8/4.0
-* **Relevant Coursework:** Econometrics, Financial Economics, Quantitative Methods
+### 🏛️ **Mithibai College (Autonomous)** (2020 - 2023)
+**Bachelor of Arts in Economics** 
+* **GPA:** 3.7/4.0
+* **Relevant Coursework:** Econometrics, Mathematical and Statistical Techniques for Economic Analysis, Indian Financial System
 
 ## 📝 Publications & Writing
 
@@ -87,6 +85,9 @@ Building data-driven financial solutions and driving strategic insights at the i
 
 ## 🏅 Certifications
 
+* 📊 **Bloomberg** - Bloomberg Market Concepts (BMC)
+* 📊 **Akuna Capital** - Options 101
+* 📊 **Wall Street Prep** - Financial Statement Modeling
 * 🎖️ **UniFi by CAIA™** - Fundamentals of Alternative Investments
 * 📊 **Excel Skills for Business** Virtual Experience Program
 * 🔬 **Reproducible Research Fundamentals** Course
@@ -97,6 +98,6 @@ Building data-driven financial solutions and driving strategic insights at the i
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saakshidedhia.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshidedhia07@gmail.com)
 
-💡 **"Transforming data into strategic financial insights, one model at a time"**
+💡 **"Curious and Critical Thinker Econ Nerd"**
 
-⭐️ From **saakshidedhia**
+⭐️ ~ **saakshidedhia**
