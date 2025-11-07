@@ -75,7 +75,7 @@
 * **GPA:** 3.7/4.0
 * **Relevant Coursework:** Econometrics, Mathematical and Statistical Techniques for Economic Analysis, Indian Financial System
 
-## 📝 Publications & Writing
+## 📝 Articles
 
 📚 **The Economic Transcript** - Contributing Writer
 * [Chasing The Moon: India's Remarkable Lunar Odyssey](https://example.com)
@@ -85,12 +85,10 @@
 
 ## 🏅 Certifications
 
-* 📊 **Bloomberg** - Bloomberg Market Concepts (BMC)
+* 🔬 **Bloomberg** - Bloomberg Market Concepts (BMC)
 * 📊 **Akuna Capital** - Options 101
 * 📊 **Wall Street Prep** - Financial Statement Modeling
 * 🎖️ **UniFi by CAIA™** - Fundamentals of Alternative Investments
-* 📊 **Excel Skills for Business** Virtual Experience Program
-* 🔬 **Reproducible Research Fundamentals** Course
 
 ## 📫 Let's Connect!
 
