@@ -8,9 +8,9 @@ Building data-driven financial solutions and driving strategic insights at the i
 
 * 🎯 Currently pursuing **Master's in Applied Economics & Econometrics** at University of Southern California (Expected May 2026)
 * 💼 Former **Portfolio Management & Investment Research Intern** at StepStone Group, managing $602B Evergreen Fund strategies
-* 🏆 **Rising Star of the Year 2022** - Founded and scaled Sparsh Skin to $50K+ in revenue
+* 🏆 **Rising Star of the Year 2022** - Founded and scaled Sparsh Skin, a personal care brand
 * 📊 Experienced in **quantitative modeling, risk management, and financial analysis** across multiple asset classes
-* 🌟 President of Economic Graduate Student Association (EGSA) & VCIC'24 participant
+* 🌟 President of Economic Graduate Student Association (EGSA) & VCIC'24 winner
 * 📧 Reach me at: **sakshidedhia07@gmail.com**
 
 ## ⚡ Current Focus
@@ -68,7 +68,8 @@ Building data-driven financial solutions and driving strategic insights at the i
 ### 🏛️ **University of Southern California** (Aug 2024 - May 2026)
 **Master of Science in Applied Economics & Econometrics** (STEM)
 * **Leadership:** President - Economic Graduate Student Association (EGSA)
-* **Activities:** USC Global Investment Society, Blockchain@USC, VCIC'24
+* **Awards:** Secured first place in Venture Capital Investment Capital (VCIC'24)
+* **Research Assistant:** Marshall Behavioral Research Lab
 * **Teaching Assistant:** DSO 580, BUAD 315, POSC-340, POSC-436
 
 ### 🏛️ **University of Mumbai** (2020 - 2024)
@@ -89,7 +90,6 @@ Building data-driven financial solutions and driving strategic insights at the i
 * 🎖️ **UniFi by CAIA™** - Fundamentals of Alternative Investments
 * 📊 **Excel Skills for Business** Virtual Experience Program
 * 🔬 **Reproducible Research Fundamentals** Course
-* 📋 **IC38** - Certificate Exam of Insurance Agent
 
 ## 📫 Let's Connect!
 
