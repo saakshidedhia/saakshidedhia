@@ -33,24 +33,23 @@
 ![Capital IQ](https://img.shields.io/badge/Capital_IQ-003366?style=for-the-badge&logoColor=white)
 
 ### 📈 **Core Competencies**
-* **Financial Analysis:** Statement Analysis, Ratio Analysis, Risk Assessment, Portfolio Optimization
-* **Quantitative Methods:** Econometric Modeling, Monte Carlo Simulations, Factor Analysis
-* **Investment Research:** Due Diligence, Asset Allocation, Performance Attribution
+* **Financial Analysis & Risk Modeling:** Financial Statement Analysis, Ratio Analysis, Risk Assessment, Portfolio Optimization, Stress Testing, Scenario Analysis, Sensitivity Analysis
+* **Quantitative Methods:** Econometric Modeling, Monte Carlo Simulations, Factor Analysis, Derivatives Pricing, Risk/Return Modeling, Time Series Forecasting
+* **Investment Research:** Due Diligence, Asset Allocation, Performance Attribution, Portfolio Construction, Valuation
 * **Data Management:** ETL Pipelines, Database Design, Data Visualization
 
 ## 🏆 Key Achievements
 
-### 💼 **StepStone Group** - Portfolio Management Intern
+### 💼 **StepStone Group** - Portfolio Management and Investment Research Intern
 * 🎯 Developed **proprietary quantitative optimization model** in Python for $602B Evergreen Fund
 * 📊 Architected **SQL database pipeline** eliminating manual reconciliation across fund pacing models
 * 🔧 Modeled NAV trajectories, liquidity buffers, and reinvestment thresholds
 
-### 🚀 **Sparsh Skin** - Founder & CEO (4 Years)
+### 🚀 **Sparsh Skin** - Founder (4 Years)
 * 📈 Generated **$50K+ in revenue** with 40% YOY growth
 * 🎨 Launched **30+ products** with data-driven pricing strategies
 * 👥 Built distribution network of **15+ women entrepreneurs**
 * ⚡ Improved operational efficiency by **30%** through automation
-* 🏅 Awarded **"Rising Star of the Year – 2022"**
 
 ### 📊 **Saaro Investments** - Investment Analyst
 * 💰 Managed portfolios for **50+ HNI clients** achieving 12-15% annual returns
