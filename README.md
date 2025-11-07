@@ -75,13 +75,6 @@
 * **GPA:** 3.7/4.0
 * **Relevant Coursework:** Econometrics, Mathematical and Statistical Techniques for Economic Analysis, Indian Financial System
 
-## 📝 Articles
-
-📚 **The Economic Transcript** - Contributing Writer
-* [Chasing The Moon: India's Remarkable Lunar Odyssey](https://example.com)
-* [Cryptoverse: Bitcoin's Remarkable Comeback](https://example.com)
-* [Green Finance: Nurturing Sustainable Futures](https://example.com)
-* [Sleeponomics: The Power of Zzzzs for a Booming Economy](https://example.com)
 
 ## 🏅 Certifications
 
