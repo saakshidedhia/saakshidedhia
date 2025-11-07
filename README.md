@@ -61,8 +61,7 @@
 ## 🎓 Education
 
 ### 🏛️ **University of Southern California** (Aug 2024 - May 2026)
-**Master of Science in Applied Economics & Econometrics** (STEM)
-* **GPA:** 3.85/4.0
+**Master of Science in Applied Economics & Econometrics** (STEM) - (**GPA:** 3.85/4.0)
 * **Relevant Coursework:** Time Series Analysis, Big Data Econometrics, Private Equity and Venture Capital, Quantitative Investing, Macroeconomics
 * **Leadership:** President - Economic Graduate Student Association (EGSA)
 * **Awards:** Secured first place in Venture Capital Investment Capital (VCIC'24)
@@ -71,9 +70,9 @@
 * **Teaching Assistant:** DSO 580, BUAD 315, POSC-340, POSC-436
 
 ### 🏛️ **Mithibai College (Autonomous)** (2020 - 2023)
-**Bachelor of Arts in Economics** 
-* **GPA:** 3.7/4.0
+**Bachelor of Arts in Economics** - (**GPA:** 3.7/4.0)
 * **Relevant Coursework:** Econometrics, Mathematical and Statistical Techniques for Economic Analysis, Indian Financial System
+* **Involvement:** Contributing Writer at The Economic Transcript
 
 
 ## 🏅 Certifications
